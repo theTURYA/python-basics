@@ -1,4 +1,4 @@
-## This repo contains some useful code snippet that helps you to start your python coding journey.
+## This repository contains some useful code snippet that helps you to start your python coding journey.
 <p>
   1. In this repo we going to learn about python libraries such as Numpy, Scipy, Control, Matplotlib etc.
   <p/>
